@@ -1,6 +1,8 @@
 # Python Script for Text To Speech from a provided .txt file
 # Final output in .mp3 format
 
+!pip install pyttsx3
+
 import pyttsx3
 
 # initialize Text-to-speech engine
